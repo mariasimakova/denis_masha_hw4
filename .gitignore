@@ -1,1 +1,4 @@
 data/
+hw4_venv/
+*.egg-info
+denis_masha_library/build/
